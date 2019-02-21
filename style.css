@@ -2926,7 +2926,7 @@ input:not(:checked) + label + .technical-features__accordion-table {
     margin-right: 2rem;
     align-self: flex-start; } }
 .titleName{
-    color:rgb(255,255,255); 
+    color:rgb(0,0,0); 
 }
 
 /*# sourceMappingURL=main.css.map */
