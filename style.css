@@ -2925,5 +2925,8 @@ input:not(:checked) + label + .technical-features__accordion-table {
     margin-left: 34.28498%;
     margin-right: 2rem;
     align-self: flex-start; } }
+.titleName{
+    color:rgb(255,255,255); 
+}
 
 /*# sourceMappingURL=main.css.map */
